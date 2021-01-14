@@ -1,0 +1,145 @@
+[GIN-debug] Listening and serving HTTP on :8085
+[info]2021/01/13 22:55:20 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:20 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:20 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:20 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:20 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:20 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:20 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:20 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:20 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:20 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:36 runner.go:63: results: [12.21,12.85,11.04,11.73,8.58,13.44,14.60,15.63,13.91,7.50]
+[info]2021/01/13 22:55:36 runner.go:77: intPart :  8
+[info]2021/01/13 22:55:36 runner.go:78: report : 
+[info]2021/01/13 22:55:36 runner.go:79: 	avg time :  12.15  s
+[info]2021/01/13 22:55:36 runner.go:80: 	95% time :  {http://www.baidu.com 14.604227718}
+[info]2021/01/13 22:55:36 runner.go:86: 	results :  [7.50,8.58,11.04,11.73,12.21,12.85,13.44,13.91,14.60,15.63]
+[info]2021/01/13 22:55:36 time_extend.go:17: 请求:e62c268c-fedc-4283-838b-d90ebfb3524b url: /url/test?url=http://www.baidu.com&count=10  返回状态: 200
+[info]2021/01/13 22:55:36 time_extend.go:19: 请求:e62c268c-fedc-4283-838b-d90ebfb3524b url: /url/test?url=http://www.baidu.com&count=10  用时: 15.632128186s
+[info]2021/01/13 22:55:39 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:39 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:39 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:39 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:39 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:39 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:39 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:39 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:39 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:55:39 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:03 runner.go:63: results: [23.89,13.34,10.73,11.76,5.09,9.56,15.73,14.42,23.74,5.09]
+[info]2021/01/13 22:56:03 runner.go:77: intPart :  8
+[info]2021/01/13 22:56:03 runner.go:78: report : 
+[info]2021/01/13 22:56:03 runner.go:79: 	avg time :  13.33  s
+[info]2021/01/13 22:56:03 runner.go:80: 	95% time :  {http://www.baidu.com 23.741736363}
+[info]2021/01/13 22:56:03 runner.go:86: 	results :  [5.09,5.09,9.56,10.73,11.76,13.34,14.42,15.73,23.74,23.89]
+[info]2021/01/13 22:56:03 time_extend.go:17: 请求:f7a341ca-4416-4c84-a118-7190484bb1f1 url: /url/test?url=http://www.baidu.com&count=10  返回状态: 200
+[info]2021/01/13 22:56:03 time_extend.go:19: 请求:f7a341ca-4416-4c84-a118-7190484bb1f1 url: /url/test?url=http://www.baidu.com&count=10  用时: 23.887767489s
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 22:56:09 task.go:21: url: http://www.baidu.com
+[info]2021/01/13 23:00:19 runner.go:63: results: [27.89,22.85,249.68,11.99,16.49,38.57,37.68,14.70,19.54,35.14,8.62,13.34,45.47,18.19,20.44,23.96,249.67,16.91,11.79,5.06,22.09,11.05,21.77,21.28,20.78,13.67,5.74,7.82,35.14,16.86,8.36,33.92,36.52,20.50,35.16,33.94,37.74,25.58,20.02,29.84,5.85,9.88,12.67,4.10,20.08,23.29,14.95,34.95,10.32,14.69,12.68,34.82,8.57,23.91,35.03,37.68,33.92,11.98,5.74,16.92,24.18,21.36,19.83,36.52,34.56,4.01,14.62,8.84,38.58,12.14,32.92,23.91,33.96,11.84,5.10,34.96,35.19,39.07,11.70,13.52,10.98,16.77,34.60,43.80,22.18,9.61,22.55,13.39,8.92,11.78,20.50,37.74,11.69,27.45,10.15,8.89,11.78,6.95,16.77,17.81]
+[info]2021/01/13 23:00:19 runner.go:77: intPart :  94
+[info]2021/01/13 23:00:19 runner.go:78: report : 
+[info]2021/01/13 23:00:19 runner.go:79: 	avg time :  25.39  s
+[info]2021/01/13 23:00:19 runner.go:80: 	95% time :  {http://www.baidu.com 38.576644048}
+[info]2021/01/13 23:00:19 runner.go:86: 	results :  [4.01,4.10,5.06,5.10,5.74,5.74,5.85,6.95,7.82,8.36,8.57,8.62,8.84,8.89,8.92,9.61,9.88,10.15,10.32,10.98,11.05,11.69,11.70,11.78,11.78,11.79,11.84,11.98,11.99,12.14,12.67,12.68,13.34,13.39,13.52,13.67,14.62,14.69,14.70,14.95,16.49,16.77,16.77,16.86,16.91,16.92,17.81,18.19,19.54,19.83,20.02,20.08,20.44,20.50,20.50,20.78,21.28,21.36,21.77,22.09,22.18,22.55,22.85,23.29,23.91,23.91,23.96,24.18,25.58,27.45,27.89,29.84,32.92,33.92,33.92,33.94,33.96,34.56,34.60,34.82,34.95,34.96,35.03,35.14,35.14,35.16,35.19,36.52,36.52,37.68,37.68,37.74,37.74,38.57,38.58,39.07,43.80,45.47,249.67,249.68]
+[info]2021/01/13 23:00:19 time_extend.go:17: 请求:416cb20c-b264-4b4c-8f9c-61082feac4d4 url: /url/test?url=http://www.baidu.com&count=100  返回状态: 200
+[info]2021/01/13 23:00:19 time_extend.go:19: 请求:416cb20c-b264-4b4c-8f9c-61082feac4d4 url: /url/test?url=http://www.baidu.com&count=100  用时: 4m9.683891851s

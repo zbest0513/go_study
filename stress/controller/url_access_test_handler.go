@@ -2,7 +2,7 @@ package controller
 
 import (
 	"github.com/gin-gonic/gin"
-	"go_study/week7/model"
+	"go_study/stress/model"
 	"net/http"
 	"strconv"
 	"strings"

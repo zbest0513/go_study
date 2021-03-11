@@ -4,7 +4,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"go_study/global"
 	"go_study/routers"
-	"go_study/week7/controller"
+	"go_study/stress/controller"
 	"io"
 	"log"
 	"os"

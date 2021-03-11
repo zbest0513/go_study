@@ -1,12 +1,12 @@
 package test
 
 import (
-	"go_study/week8"
+	"go_study/link_list"
 	"testing"
 )
 
 func TestWeek8Job(t *testing.T) {
-	tableA := week8.NewLinkTable("A")
+	tableA := link_list.NewLinkTable("A")
 	tableA.Add("a")
 	tableA.Add("b")
 	tableA.Add("x")
@@ -14,7 +14,7 @@ func TestWeek8Job(t *testing.T) {
 	tableA.Add("z")
 	println(tableA.String())
 
-	tableB := week8.NewLinkTable("B")
+	tableB := link_list.NewLinkTable("B")
 	tableB.Add("d")
 	tableB.Add("e")
 	tableB.Add("f")

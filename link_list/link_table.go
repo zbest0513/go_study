@@ -1,4 +1,4 @@
-package week8
+package link_list
 
 import "sync"
 
